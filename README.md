@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="./profile_banner.png" width="100%" alt="Chennuru Tejith Banner" />
-</p>
-
 <div align="center">
-  <img src="https://github.com/chennuru-tejith.png" width="120" style="border-radius: 50%; border: 3px solid #70a5fd; box-shadow: 0px 0px 15px rgba(112, 165, 253, 0.4);" alt="Chennuru Tejith Avatar" />
+  <img src="./logo.svg" width="150" alt="Chennuru Tejith Animated Logo" />
   <h1>Hey there! I'm Chennuru Tejith 👋</h1>
   <p><strong>Full-Stack Developer | AI Builder | Quantitative Stock Analyst</strong></p>
 
@@ -42,6 +38,10 @@ I am a passionate software developer focused on building automation systems, fin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chennuru-tejith&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
   <img src="https://github-readme-leetcode-card.romitsagu.com/api?username=chennuru-tejith&theme=tokyonight" height="195" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chennuru-tejith&theme=tokyonight&area=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
