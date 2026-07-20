@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" width="150" alt="Chennuru Tejith Animated Logo" />
+  <img src="./logo-v2.svg" width="150" alt="Chennuru Tejith Animated Logo" />
   <h1>Hey there! I'm Chennuru Tejith 👋</h1>
   <p><strong>Full-Stack Developer | AI Builder | Quantitative Stock Analyst</strong></p>
 
