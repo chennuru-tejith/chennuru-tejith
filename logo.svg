@@ -32,10 +32,13 @@
   </style>
 
   <g class="animated-element">
+    <!-- Dark Background Circle for visibility in both themes -->
+    <circle cx="100" cy="100" r="73" fill="#0f172a" />
+    
     <!-- Glowing Outer Circle -->
-    <circle cx="100" cy="100" r="75" stroke="url(#circleGrad)" stroke-width="5" filter="url(#glow)" class="glowing-circle" />
+    <circle cx="100" cy="100" r="75" stroke="url(#circleGrad)" stroke-width="4" filter="url(#glow)" class="glowing-circle" />
     
     <!-- Inner design - CT letters -->
-    <text x="100" y="112" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">CT</text>
+    <text x="100" y="114" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-size="42" font-weight="bold" fill="#ffffff" text-anchor="middle">CT</text>
   </g>
 </svg>
