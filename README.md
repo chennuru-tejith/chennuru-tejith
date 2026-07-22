@@ -1,76 +1,108 @@
 <div align="center">
-  <img src="./avatar.png" width="130" style="border-radius: 50%;" alt="Chennuru Tejith Stylized Avatar" />
-  <h1>Hey there! I'm Chennuru Tejith 👋</h1>
-  <p><strong>Full-Stack Developer | AI Builder | Quantitative Stock Analyst</strong></p>
+  <img src="./avatar.png" width="140" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Chennuru Tejith Avatar" />
+  
+  <h1>Hi, I'm <span color="#70a5fd">Chennuru Tejith</span> 👋</h1>
 
-  <p>
-    <a href="https://leetcode.com/u/chennuru-tejith/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" /></a>
+  <!-- Typing Animation -->
+  <a href="https://github.com/chennuru-tejith">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Automation+Architect;Quantitative+Stock+Analyst;Competitive+Programmer" alt="Typing Title" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Badges -->
+  <p align="center">
+    <a href="https://leetcode.com/u/chennuru-tejith/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://github.com/chennuru-tejith"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:chennurutejith@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
+
+  <!-- Profile Views Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=chennuru-tejith&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
----
-
-### 📖 About Me
-
-I am a passionate software developer focused on building automation systems, financial analytics tools, and solving complex algorithmic challenges. I enjoy bridges between data, AI, and practical everyday utilities.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
 ---
 
-### 📊 Coding & Activity Stats
+### ⚡ About Me
+
+```yaml
+user: chennuru-tejith
+role: Full-Stack Engineer & AI Builder
+passions: [Automation, Quant Stock Analysis, System Architecture]
+current_focus: Building autonomous AI agents & algorithmic financial models
+learning: Advanced System Design, Cloud Infra & Deep Learning
+fun_fact: "Created an automated bot to bypass rate-limit wait times!"
+```
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chennuru-tejith&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-leetcode-card.romitsagu.com/api?username=chennuru-tejith&theme=tokyonight" height="195" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chennuru-tejith&theme=tokyonight&area=true" width="100%" alt="GitHub Activity Graph" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,redux,mongodb,firebase,tailwind,html,css,git,github,vscode,postman,figma&perline=9" alt="My Tech Stack" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 Coding & GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chennuru-tejith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennuru-tejith&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chennuru-tejith&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/api?username=chennuru-tejith&theme=tokyonight" height="180" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 📈 Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chennuru-tejith&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chennuru-tejith/chennuru-tejith/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+### 🚀 Featured Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/chennuru-tejith/Claude-Auto-Resume-Recycle-Bot">Claude Auto-Resume & Recycle Bot</a></h4>
-      <p>Automates sending prompts when Claude's usage limits are reset. It watches the clock and posts your text instantly.</p>
-      <p><sub><b>JavaScript</b></sub></p>
+      <p>Monitors rate limit reset timers and dispatches pre-written prompts the instant limits refresh.</p>
+      <p><code>JavaScript</code> <code>Automation</code> <code>Bot</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/chennuru-tejith/Indian-Stock-Analyzer">Indian Stock Analyzer</a></h4>
-      <p>Analyzes historical stock data, financial statements, and technical indicators for the Indian equity market.</p>
-      <p><sub><b>JavaScript</b></sub></p>
+      <p>Quantitative analysis tool for historical stock prices, technical indicators, and financial data of Indian equities.</p>
+      <p><code>JavaScript</code> <code>Finance</code> <code>Analytics</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📄 <a href="https://github.com/chennuru-tejith/Send-A-Note">Send-A-Note</a></h4>
-      <p>A lightweight messaging utility built to dispatch quick text notes efficiently.</p>
-      <p><sub><b>TypeScript</b></sub></p>
+      <p>High-efficiency utility designed for rapid dispatch of notes and quick messages.</p>
+      <p><code>TypeScript</code> <code>Utility</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 <a href="https://github.com/chennuru-tejith/Personal-Portfolio-Website">Personal Portfolio Website</a></h4>
-      <p>My interactive portfolio website designed to showcase my projects and credentials.</p>
-      <p><sub><b>HTML/CSS/JS</b></sub></p>
+      <p>Interactive web portfolio showcasing personal projects, technical skillsets, and achievements.</p>
+      <p><code>HTML/CSS</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
@@ -78,5 +110,5 @@ I am a passionate software developer focused on building automation systems, fin
 ---
 
 <p align="center">
-  <sub><i>"The best way to predict the future is to invent it."</i></sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
 </p>
