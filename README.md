@@ -1,60 +1,47 @@
-<!-- Animated Waving Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:d500f9&height=200&section=header&text=Chennuru%20Tejith&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Automation%20Architect&descSize=18&descAlign=50&descAlignY=72" width="100%" alt="Header Banner" />
-</p>
-
 <div align="center">
-  <!-- Glowing Circular Avatar -->
+  <!-- Sleek 3D Stylized Avatar -->
   <a href="https://github.com/chennuru-tejith">
-    <img src="./avatar.png" width="130" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Chennuru Tejith Avatar" />
+    <img src="./avatar-v3.png" width="140" style="border-radius: 50%; border: 3px solid #70a5fd;" alt="Chennuru Tejith Avatar" />
   </a>
 
   <br/><br/>
 
   <!-- Dynamic Typing Title -->
   <a href="https://github.com/chennuru-tejith">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Automation+Architect;Quantitative+Stock+Analyst;Competitive+Programmer" alt="Typing Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Chennuru+Tejith;Full-Stack+Software+Engineer;AI+%26+Automation+Architect;Quantitative+Stock+Analyst" alt="Typing Title" />
   </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- Social & Contact Badges -->
+  <!-- Quick Badges -->
   <p align="center">
     <a href="https://leetcode.com/u/chennuru-tejith/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://github.com/chennuru-tejith"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:chennurutejith@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
-  <!-- Profile Views Counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=chennuru-tejith&color=70a5fd&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-</p>
-
 ---
 
-### ⚡ Developer Profile
+### ⚡ Developer Bio
 
 ```yaml
 user: chennuru-tejith
 role: Full-Stack Software Engineer & AI Architect
 location: India
-passions:
-  - Automation & AI Agentic Workflows
-  - Quantitative Financial Analytics
-  - High-Performance System Architecture
+passions: [AI Automation, Quant Stock Analytics, System Architecture]
 current_focus: Building autonomous AI agents & algorithmic stock market models
-learning: Advanced Cloud Infrastructure, Distributed Systems & Deep Learning
-fun_fact: "Engineered an automated bot to bypass rate-limit reset wait times!"
+learning: Advanced System Design, Cloud Infrastructure & Deep Learning
+fun_fact: "Created an automated bot to bypass rate-limit wait times!"
 ```
 
 ---
 
-### 🛠️ Tech Stack & Skillset
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,21 +51,21 @@ fun_fact: "Engineered an automated bot to bypass rate-limit reset wait times!"
 
 ---
 
-### 📊 Coding & GitHub Analytics
+### 📊 Performance Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chennuru-tejith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennuru-tejith&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chennuru-tejith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennuru-tejith&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chennuru-tejith&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-leetcode-card.romitsagu.com/api?username=chennuru-tejith&theme=tokyonight" height="180" alt="LeetCode Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chennuru-tejith&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/api?username=chennuru-tejith&theme=tokyonight" height="170" alt="LeetCode Stats" />
 </p>
 
 ---
 
-### 📈 Activity & Contribution Graph
+### 📈 Activity & Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chennuru-tejith&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -118,14 +105,3 @@ fun_fact: "Engineered an automated bot to bypass rate-limit reset wait times!"
     </td>
   </tr>
 </table>
-
----
-
-<!-- Animated Waving Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d500f9,100:70a5fd&height=120&section=footer" width="100%" alt="Footer Banner" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
-</p>
