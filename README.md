@@ -40,25 +40,34 @@ Business Management student focused on **product strategy, financial analytics, 
   <tr>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/chennuru-tejith/Indian-Stock-Analyzer">Indian Stock Analyzer</a></h4>
-      <p>Quantitative financial analytics platform designed to evaluate equity pricing data, technical indicators, and key market trends.</p>
-      <p><code>Financial Analytics</code> <code>Modeling</code> <code>JavaScript</code></p>
+      <p>Quantitative financial analytics platform with AI-powered candlestick pattern detection and technical indicators for Indian equities.</p>
+      <p><code>Financial Analytics</code> <code>Pine Script</code> <code>JavaScript</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/chennuru-tejith/Claude-Auto-Resume-Recycle-Bot">Claude Auto-Resume & Recycle Bot</a></h4>
-      <p>Operational process automation tool that monitors API rate-limit windows and dispatches scheduled tasks automatically.</p>
-      <p><code>Process Automation</code> <code>Node.js</code></p>
+      <p>Chrome extension for AI chatbot queue management — auto-resumes on rate-limit reset and recovers deleted chats.</p>
+      <p><code>Chrome Extension</code> <code>Process Automation</code> <code>JavaScript</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/chennuru-tejith/Send-A-Note">Send-A-Note</a></h4>
-      <p>Lightweight workflow utility engineered for structured message dispatch and rapid note taking.</p>
-      <p><code>Workflow Utility</code> <code>TypeScript</code></p>
+      <h4>💼 <a href="https://github.com/chennuru-tejith/Send-A-Note">Send-A-Note — LinkedIn AI Smart Writer</a></h4>
+      <p>Chrome extension that generates AI-powered LinkedIn connection messages using React, TypeScript, and Shadow DOM isolation.</p>
+      <p><code>Chrome Extension</code> <code>React</code> <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/chennuru-tejith/Personal-Portfolio-Website">Executive Web Portfolio</a></h4>
-      <p>Interactive web application showcasing projects, technical skillsets, and business analytics initiatives.</p>
-      <p><code>Digital Strategy</code> <code>Web App</code></p>
+      <h4>🌐 <a href="https://github.com/chennuru-tejith/Personal-Portfolio-Website">Personal Portfolio Website</a></h4>
+      <p>Interactive glassmorphism portfolio with particle canvas, CLI terminal, filterable skills, and live GitHub/LeetCode stats.</p>
+      <p><code>HTML5/CSS3</code> <code>JavaScript</code> <code>Glassmorphism</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📧 <a href="https://github.com/chennuru-tejith/Internship-Outreach">Internship Outreach Platform</a></h4>
+      <p>Automated outreach and cold-email management platform for internship applications with tracking and templates.</p>
+      <p><code>Outreach Automation</code> <code>React</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
